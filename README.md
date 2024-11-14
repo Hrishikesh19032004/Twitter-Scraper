@@ -1,5 +1,5 @@
 # Twitter Scraper with React and Flask
-![Screenshot (352)](https://github.com/user-attachments/assets/7d0b5aea-b262-4f25-b53b-d4abc868566d)
+![Screenshot (354)](https://github.com/user-attachments/assets/2a6b7c39-502f-4b57-beb4-0b6be880b72d)
 
 ## Overview
 
